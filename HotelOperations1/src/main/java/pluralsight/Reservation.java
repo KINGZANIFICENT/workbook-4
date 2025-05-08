@@ -1,3 +1,5 @@
+package pluralsight;
+
 // Reservation.java
 public class Reservation {
     private String roomType;
